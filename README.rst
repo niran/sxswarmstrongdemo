@@ -30,6 +30,15 @@ Installation
 	< point a browser at http://localhost:8000/ >
 
 
+Run on Heroku
+-------------
+
+If you'd like to run the demo site on Heroku yourself instead of installing locally,
+follow the directions in our `Heroku README`_.
+
+.. _Heroku README: https://github.com/dmclain/sxswarmstrongdemo/blob/master/README.heroku.rst#readme
+
+
 Features
 --------
 
