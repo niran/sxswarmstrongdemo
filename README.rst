@@ -7,6 +7,17 @@ A demonstration project built using the Armstrong project in the lead up to SXSW
              of software.
 
 
+Demo Without Installing
+-----------------------
+
+If you'd like to get a feel for what it's like to use an Armstrong-based CMS needing
+technical knowledge, you can access a running instance of this code by visiting
+http://armstrong-demo.herokuapp.com. We plan to keep it running as long as we can,
+and we'll reset the data periodically. Use the rest of this file to guide you through
+the features, but replace ``localhost:8000`` with ``armstrong-demo.herokuapp.com`` in
+the URLs it references.
+
+
 Installation
 ------------
 
