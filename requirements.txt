@@ -17,11 +17,11 @@ certifi==0.0.8
 chardet==1.0.1
 coverage==3.5.1
 distribute==0.6.15
-docutils==0.8.1
 django-model-utils==0.6.0
 -e git://github.com/django-mptt/django-mptt.git@1cc844bba21dd9c511d74e19821d490662471b99#egg=django_mptt-dev
 django-reversion==1.4
 django-taggit==0.9.3
+docutils==0.8.1
 fudge==1.0.3
 gunicorn==0.14.2
 lxml==2.3.3
