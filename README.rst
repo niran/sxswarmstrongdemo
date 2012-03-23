@@ -61,8 +61,9 @@ should begin to show up on the site. The pub_status field allows Articles to be 
 in Draft, Edit, Published or Trash status. Only when an Article has a pub_status of
 Published and a pub_date in the past does it show up on the site. 
 
-In the admin interface (example: http://localhost:8000/admin/articles/article/29/),
-Armstrong provides a rich text editor for editing HTML stories. The taxonomy section 
+In the admin interface (example: http://localhost:8000/admin/articles/article/29/,
+username: ``admin``, password: ``admin``),
+Armstrong provides a rich text editor for editing HTML stories. The taxonomy section
 determines in what portions of a site that an Article will be listed. The author
 information section governs the byline of stories allowing for easily overriding or
 appending additional information to the authors list.
