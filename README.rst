@@ -23,7 +23,7 @@ Installation
 
 ::
 
-	git checkout git://github.com/niran/sxswarmstrongdemo.git
+	git clone git://github.com/niran/sxswarmstrongdemo.git
 	cd sxswarmstrongdemo
 	git checkout 2012-03-30
 	pip install -r requirements.txt
