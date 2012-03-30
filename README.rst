@@ -24,8 +24,8 @@ Installation
 ::
 
 	git checkout git://github.com/dmclain/sxswarmstrongdemo.git
-	cd sxswarmstrong_demo
-	pip install -r requirements/project.txt
+	cd sxswarmstrongdemo
+	pip install -r requirements.txt
 	armstrong runserver
 	< point a browser at http://localhost:8000/ >
 
